@@ -1,4 +1,6 @@
 /generator/hashlips_art_engine
+/contracts/assignment_1/venv
+/contracts/assignment_1/blockchain.json
 
 node_modules
 .env
