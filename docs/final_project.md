@@ -12,4 +12,4 @@
   - ![img1](./img/9.png)
   - Source code located in contracts/final_project/
 - Static code analysis of the contract with toolkit [Slither](https://github.com/crytic/slither)
-  - ![img2](.img/10.png)
+  - ![img2](./img/10.png)
